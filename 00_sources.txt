@@ -1,0 +1,5 @@
+Practical Node.js: Building Real-World Scalable Web Apps
+by Azat Mardan
+
+art-of-node
+https://github.com/maxogden/art-of-node
